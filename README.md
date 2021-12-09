@@ -9,3 +9,6 @@ https://drive.google.com/file/d/12TTLm7pNzW-ji-TvYBI8DYNj63e_TC5r/view?usp=shari
 
 ## Link to video walkthrough of data verification and validation.
 https://drive.google.com/file/d/1oV3mgD2mlERr1C6hFwIdnkJ5YF1LYX8t/view?usp=sharing
+
+## Link to video walkthrough of reusable code.
+https://drive.google.com/file/d/1FQG-Vb99Q2qjAytfYOF3LOjrYDnUqz5u/view?usp=sharing
