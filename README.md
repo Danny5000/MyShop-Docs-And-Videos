@@ -13,5 +13,5 @@ https://drive.google.com/file/d/1oV3mgD2mlERr1C6hFwIdnkJ5YF1LYX8t/view?usp=shari
 ## Link to video walkthrough of reusable code:
 https://drive.google.com/file/d/1FQG-Vb99Q2qjAytfYOF3LOjrYDnUqz5u/view?usp=sharing
 
-##Link to the MyShop project documentation file:
+## Link to the MyShop project documentation file:
 https://docs.google.com/document/d/1NBb4mz4gihyz82occWpNdKmjqhbNgnru/edit?usp=sharing&ouid=116165328135309858016&rtpof=true&sd=true
